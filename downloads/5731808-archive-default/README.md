@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `5731808-archive-default` |
 | **URL** | https://itchio-mirror.cb031a832f44726753d6267436f3b414.r2.cloudflarestorage.com/build/1477266/5731808-archive-default?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3edfcce40115d057d0b5606758e7e9ee%2F20260616%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260616T053239Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=d41fc8312dd2aa0b159f5d1a67c1a284c09a035f90415c2ce4cd9eb45e1e3694 |
-| **Date** | 2026-06-17 04:27:06 UTC |
+| **Date** | 2026-06-17 04:31:17 UTC |
 | **Status** | **FAILED** |
 
 ---
